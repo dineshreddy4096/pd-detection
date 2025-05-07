@@ -126,8 +126,6 @@ Computing Infrastructure
 
 Operating System: Tested on Ubuntu 20.04 (Kaggle environment) and compatible with Windows 10.
 Hardware: Local machine with 16GB RAM, Intel i7 CPU, optional GPU (NVIDIA CUDA-compatible for TensorFlow/PyTorch).
-Cloud (Optional): AWS EC2 g4dn.xlarge (Ubuntu 20.04, 4 vCPUs, 16GB RAM, NVIDIA T4 GPU).
-Setup: Configure AWS CLI, install CUDA, and run scripts with GPU support.
 
 
 
